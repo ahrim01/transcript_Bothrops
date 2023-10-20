@@ -6,7 +6,7 @@ output:
 
 # Este es mi primer repositorio 
 
-**Veamos como nos va**
+**Veamos como nos va ahora**
 
 
 *Datos de transcriptomas sin ensamblar de la glándula de veneno de Bothrops asper y Bothrops jararaca*
