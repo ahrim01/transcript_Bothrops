@@ -1,4 +1,5 @@
-#Este script consiste en hacer un ensamblaje de los transcriptomas 
+#Este script consiste en descargar los datos de transcriptomas sin la necesidad de abrir el navegador
+#También se vera el estado de calidad de las secuencias descargadas
 #Los datos a usar son de la glándula de veneno de Bothrops asper y Bothrops jararaca
 
 #Los datos a usar son: SRR12800503 y SRR12915695
